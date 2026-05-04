@@ -1,0 +1,6 @@
+{
+  "name": "agent-evon-quiz-de-conocimientos-generale-morkimgo",
+  "version": "1.0.0",
+  "description": "Proyecto de Evon [Gen10]: quiz de conocimientos generales con puntuacion",
+  "main": "index.js"
+}
